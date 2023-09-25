@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
 .nav{
     height: 70px;
@@ -30,7 +31,9 @@ flex-direction: column;
 flex-wrap: wrap;
 
 }
+
 @import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+
 .fristbox{
     height: 40px;
     width: 40%;
