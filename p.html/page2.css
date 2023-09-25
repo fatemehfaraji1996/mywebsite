@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+
+
+    
+}
+body {
+    background-color: #555;
+    position: relative;
+    
+}
+.up {
+    color: #2f9177;
+    text-align: center;
+}
+
+.hr1 {
+    width: 60%;
+    display: block;
+    height: 1px;
+    border: 1px solid rgb(93, 18, 72);
+    margin-bottom: 25px;
+}
+.but{
+    background-color:#60a4e9;
+    width: 98%;
+    height: max-content;
+    border:2px solid rgb(0, 0, 0);
+    /* border-radius:7px solid ; */
+    color:#ececec;
+    padding:10px 25px;
+    text-align:center;
+    font-size:25px;
+    transition:0.7s;
+
+}
